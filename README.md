@@ -26,7 +26,7 @@ For any inquiries or feedback regarding this project, please reach out to
 
 Happy password generating! 🛡️🔐
 
-
+Checkout this link- https://raw.githack.com/qutubuddinkhan07/P1/main/index.html
 
 
 
