@@ -1,0 +1,70 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    margin: 0;
+    background-color: #7EC8E3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.result{
+    display: none;
+}
+
+.container h1 {
+    color: #050A30;
+    font-size: 30px;
+    border: dotted #003B73 2px;
+    border-radius: 5px;
+    padding: 10px 90px 10px 90px;
+}
+
+.yourClassName {
+    background-color: #274472;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    color: #C3E0E5;
+}
+
+.input{
+    border: 2px solid black;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 50px 10px 50px;
+    background-color: #0E86D4;
+}
+
+.input label{
+    font-size: 25px;
+    font-weight: 300;
+}
+
+#btn{
+    background-color: #BFD7ED;
+    margin: 2px;
+}
+.input input,.result,.yourClassName{
+    font-size: 23px;
+}
+.star{
+    color: red;
+}
+.wait{
+    padding: 2px;
+    margin: 0;
+    font-size: 15px;
+}
